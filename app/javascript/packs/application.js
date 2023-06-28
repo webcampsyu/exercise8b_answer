@@ -10,8 +10,7 @@ import "channels"
 import jQuery from "jquery"
 import "popper.js"
 import "bootstrap"
-import Chart from 'chart.js/auto';
-import '@fortawesome/fontawesome-free/js/all';
+import Chrat from 'chart.js/auto';
 import "../stylesheets/application" 
 
 Rails.start()
